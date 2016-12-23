@@ -15,6 +15,6 @@ printf("\n it is a vowel");
 }
 else
 {
-printf("\n it is not a vowel");
+printf("\n it is consonent");
 }
 }
